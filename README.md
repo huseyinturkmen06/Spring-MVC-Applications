@@ -12,4 +12,4 @@ Bazı ilişkisel veri tabanı işlemlerini görebileceğiniz ve DTO gibi başlan
 [Spring Basic Application](https://github.com/huseyinturkmen06/Housemate-Finding-Application-With-Java-Spring)
 
 Büyük Projelere Uygun Bir Core Katmanı İnşaası Göreceğiniz Spring Uygulaması:
-[Spring Core Application]([https://github.com/huseyinturkmen06/Housemate-Finding-Application-With-Java-Spring](https://github.com/huseyinturkmen06/Northwind)
+[Spring Core Application](https://github.com/huseyinturkmen06/Northwind)

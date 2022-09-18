@@ -27,6 +27,6 @@ Büyük Projelere Uygun Bir Core Katmanı İnşaası Göreceğiniz Spring Uygula
 
 
 * Veri tabanı ve tarihsel işlemlerin spring gerçekleştirilmesinin örneklerini görebileceğiniz spring uygulaması: 
- * [Spring Date Application](https://github.com/huseyinturkmen06/FT-Technology-Java-Spring-Practicum)                
+  * [Spring Date Application](https://github.com/huseyinturkmen06/FT-Technology-Java-Spring-Practicum)                
 
           

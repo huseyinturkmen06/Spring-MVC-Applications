@@ -17,15 +17,11 @@ Büyük Projelere Uygun Bir Core Katmanı İnşaası Göreceğiniz Spring Uygula
 
 
 
- Markup : - Kullanıcı adı ve parolanın JWT tokenlar ile şifrelendiği Spring Security Uygulaması:
-              - [Spring Security](https://github.com/huseyinturkmen06/Spring-Security-Application)
-              - Bu uygulamada inceleyebilecekleriniz:
+ Markup : * Kullanıcı adı ve parolanın JWT tokenlar ile şifrelendiği Spring Security Uygulaması:
+              * [Spring Security](https://github.com/huseyinturkmen06/Spring-Security-Application)
+              * Bu uygulamada inceleyebilecekleriniz:
                   -Spring Framework İle Katmanlı mimari tasarlarken Data Transfer Object kullanımı
                   -Spring Security Ve Katmanlı Mimariye Uygulanması
                   
           - Bullet list item 2 
           
- Markup : - Bullet list
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2 

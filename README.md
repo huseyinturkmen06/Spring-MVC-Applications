@@ -6,6 +6,8 @@ Bu uygulamada inceleyebilecekleriniz:
 -Spring Framework İle Katmanlı mimari tasarlarken Data Transfer Object kullanımı
 -Spring Security Ve Katmanlı Mimariye Uygulanması
 
+
+
 Veri tabanı ve tarihsel işlemlerin spring gerçekleştirilmesinin örneklerini görebileceğiniz spring uygulaması: 
 [Spring Date Application](https://github.com/huseyinturkmen06/FT-Technology-Java-Spring-Practicum)
 
@@ -22,6 +24,9 @@ Büyük Projelere Uygun Bir Core Katmanı İnşaası Göreceğiniz Spring Uygula
   * Bu uygulamada inceleyebilecekleriniz:
     * Spring Framework İle Katmanlı mimari tasarlarken Data Transfer Object kullanımı
     * Spring Security Ve Katmanlı Mimariye Uygulanması
-                  
+
+
+* Veri tabanı ve tarihsel işlemlerin spring gerçekleştirilmesinin örneklerini görebileceğiniz spring uygulaması: 
+ * [Spring Date Application](https://github.com/huseyinturkmen06/FT-Technology-Java-Spring-Practicum)                
 
           

@@ -6,7 +6,7 @@
 * Kullanıcı adı ve parolanın JWT tokenlar ile şifrelendiği Spring Security Uygulaması:
   * [Spring Security](https://github.com/huseyinturkmen06/Spring-Security-Application)
   * Bu uygulamada inceleyebilecekleriniz:
-    * Spring Framework İle Katmanlı mimari tasarlarken Data Transfer Object kullanımı
+    * Spring Framework İle Katmanlı mimari tasarlarken Data Transfer Object (DTO) kullanımı
     * Spring Security Ve Katmanlı Mimariye Uygulanması
 
 

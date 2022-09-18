@@ -1,6 +1,6 @@
 ## Spring Uygulamaları
 Kullanıcı adı ve parolanın JWT tokenlar ile şifrelendiği Spring Security Uygulaması: <br>
-[Spring Security](https://github.com/huseyinturkmen06/Spring-Security-Application)
+[Spring Security](https://github.com/huseyinturkmen06/Spring-Security-Application)  <br>
 Bu uygulamada inceleyebilecekleriniz:
 -Spring Framework İle Katmanlı mimari tasarlarken Data Transfer Object kullanımı
 -Spring Security Ve Katmanlı Mimariye Uygulanması
@@ -12,4 +12,4 @@ Bazı ilişkisel veri tabanı işlemlerini görebileceğiniz ve DTO gibi başlan
 [Spring Basic Application](https://github.com/huseyinturkmen06/Housemate-Finding-Application-With-Java-Spring)
 
 Büyük Projelere Uygun Bir Core Katmanı İnşaası Göreceğiniz Spring Uygulaması:
-[Spring Core Application]([https://github.com/huseyinturkmen06/Housemate-Finding-Application-With-Java-Spring](https://github.com/huseyinturkmen06/Northwind))
+[Spring Core Application]([https://github.com/huseyinturkmen06/Housemate-Finding-Application-With-Java-Spring](https://github.com/huseyinturkmen06/Northwind)

@@ -1,6 +1,6 @@
 ## Spring Uygulama Örnekleri Ve Şablonları
-# Merhaba, gün geçtikçe daha da popülerleşen Java Spring framework ile çeşitli seviyelerde geliştirdiğim bazı katmanlı mimarideki API'leri aşağıda görebilirsiniz.
-#Siz de bu teknoloji ile uğraşıyorsanız ve Spring Framework ile kullanılan çeşitli kurumsal yapı ve metot örneklerini incelemek veya bazı şablonları kendi projelerinizde kullanmak isterseniz, aşağıdaki projeleri inceleyebilirsiniz.
+### Merhaba, gün geçtikçe daha da popülerleşen Java Spring framework ile çeşitli seviyelerde geliştirdiğim bazı katmanlı mimarideki API'leri aşağıda görebilirsiniz.
+###Siz de bu teknoloji ile uğraşıyorsanız ve Spring Framework ile kullanılan çeşitli kurumsal yapı ve metot örneklerini incelemek veya bazı şablonları kendi projelerinizde kullanmak isterseniz, aşağıdaki projeleri inceleyebilirsiniz.
 
 * Kullanıcı adı ve parolanın JWT tokenlar ile şifrelendiği Spring Security Uygulaması:
   * [Spring Security](https://github.com/huseyinturkmen06/Spring-Security-Application)
